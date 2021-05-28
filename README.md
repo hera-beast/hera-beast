@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hera-beast
+- 👋 Hi, I’m Edin Herić, young and ambitious web developer
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning CSS framworks and JavaScript
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 You can reach me on email edinheric_98@hotmail.com
 
 <!---
 hera-beast/hera-beast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
