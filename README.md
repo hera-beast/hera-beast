@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Edin Herić, young and ambitious web developer
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on web development projects
+- 👋 Hi, I’m Edin Herić, frontend developer with 4+ years of experience
+- 💞️ I’m looking for full time or part time job
 - 📫 You can reach me on email edinheric_98@hotmail.com
 
 <!---
