@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edin Herić, frontend developer with 4+ years of experience
+- 👋 Hi, I’m Edin Herić, frontend developer with 6+ years of experience
 - 💞️ I’m looking for full time or part time job
 - 📫 You can reach me on email edinheric_98@hotmail.com
 
